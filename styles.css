@@ -113,10 +113,7 @@ height: 100%;
 }
 @media only screen and (min-width: 700px) {
     
-    body{
-        background-color: aquamarine;
-        
-    }
+  
     #card{
         max-width : 35rem;
         /* width: 80%; */
